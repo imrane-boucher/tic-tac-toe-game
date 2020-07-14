@@ -5,9 +5,9 @@ Run the tic_tac_toe.py file to get the game started in the terminal window.
 
 ### How the game works ?
 
-The two players get to role the dice, in order to know who goes first.
-Use numbers between 1 to 9 in order to place your chips. 
-Once the game ends, players have the possibility to play another round. 
+- The two players get to role the dice, in order to know who goes first.
+- Use numbers between 1 to 9 in order to place your chips. 
+- Once the game ends, players have the possibility to play another round. 
 
 ### Description of the files:
 
